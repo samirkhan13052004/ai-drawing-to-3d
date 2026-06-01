@@ -1,3 +1,0 @@
-streamlit==1.32.0
-cadquery==2.4.0
-numpy<1.24

@@ -1,9 +1,0 @@
-name: cad-env
-channels:
-  - conda-forge
-dependencies:
-  - python=3.10
-  - cadquery=2.4.0
-  - pip
-  - pip:
-      - streamlit==1.32.0
